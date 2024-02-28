@@ -1,4 +1,4 @@
-**SENG 637 - Software Testing, Reliability, and Quality**
+**SENG 637 - Dependability and Reliability of Software Systems**
 
 **Lab. Report #3 – Code Coverage, Adequacy Criteria and Test Case Correlation**
 
