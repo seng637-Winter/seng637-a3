@@ -150,8 +150,6 @@ To become more familiar with data flow coverage and achieve a deeper understandi
 
 - for each test case show which pairs are covered
 
-- calculate the DU-Pair coverage.
-
 ## 3.3 Test Suite Development
 
 In this section, you will be required to **design new unit tests** for two classes to increase their code coverage. The classes to be tested are: org.jfree.data.DataUtilities and org.jfree.data.Range. Note that although the focus in adequacy criteria has changed (it is now on source code), to develop new test cases the test oracle should still be derived from the requirements (as contained in the Javadocs of the SUT)
